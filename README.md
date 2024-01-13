@@ -6,6 +6,7 @@
 直角坐标系下的牛顿-拉夫逊法潮流计算程序：WSSN_R_1.mlx, WSSN_R_2.mlx;  
 PQ分解法潮流计算程序：WSSP_Q_1.mlx, WSSP_Q_2.mlx;  
 节点三相短路最大短路电流计算程序：WSSD_L_1.mlx, WSSD_L_2.mlx;  
+Matlab所用版本为2023b，请注意版本！不然可能有bug产生。  
 其后缀1，2代表方案名，内置了其参数，方便与Powerworld仿真结果进行比较。
 ### 2.pw目录下存在两个7节点2发电机电网模型
 方案1的电网模型：plan1.pwb, plan1.pwd;  
